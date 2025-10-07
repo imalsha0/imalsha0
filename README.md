@@ -1,15 +1,8 @@
-# 👋 Hi there, I'm Imalsha Madumal
+# 👋 Hi, I'm Imalsha Madumal
 
-🎓 I'm an **Undergraduate Student** at **Sabaragamuwa University of Sri Lanka**, studying **Computer Science**.  
-💻 I’m passionate about **coding**, **problem solving**, and **learning new technologies**.
-
----
-
-### 🚀 About Me
-- 🌱 Currently learning: Web Development, Programming, and Computer Science  
-- 💡 Interested in: Software Engineering, AI, and Open Source projects  
-- 💬 Ask me about: HTML, CSS, JavaScript, Python  
-- ⚡ Fun fact: I love building creative and simple projects that make life easier  
+🎓 **Undergraduate | Computing & Information Systems**  
+📍 **Sabaragamuwa University of Sri Lanka**  
+💻 I love learning about **Computer Science**, **Programming**, and building creative projects.
 
 ---
 
@@ -18,15 +11,35 @@
 
 ---
 
-### 🛠️ Languages and Tools
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+### 🧠 Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+</p>
 
 ---
 
-⭐ **Thanks for visiting my profile!**  
-Let's connect and build something amazing together 🚀
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imalsha0&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imalsha0&layout=compact&theme=radical" height="180em"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imalsha0&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+</p>
+
+---
+
+⭐ *Thanks for visiting my profile! Let’s connect and create something amazing together.*
